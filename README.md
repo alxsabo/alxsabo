@@ -10,12 +10,6 @@ I'm Aleksandar, Software Craftsman, from Novi Sad, Serbia.
 📚 Currently honing the ancient art of crafting prompts for AI.  
 🎲 Fun fact: I'm a black belt in Googling through Stack Overflow.  
 
-## Let's Connect 🌐
-
-- **GitHub**: You are here! Star some repos and make my day!
-- **LinkedIn**: [in/alxsabo](https://www.linkedin.com/in/alxsabo/)
-- **Website**: [aleksandarsabo.com](httsp://aleksandarsabo.com)
-
 ## My Toolbox 🛠
 
 <div align="left">
@@ -54,3 +48,8 @@ I'm Aleksandar, Software Craftsman, from Novi Sad, Serbia.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
+## Let's Connect 🌐
+
+- **GitHub**: You are here! Star some repos and make my day!
+- **LinkedIn**: [in/alxsabo](https://www.linkedin.com/in/alxsabo/)
+- **Website**: [aleksandarsabo.com](httsp://aleksandarsabo.com)
