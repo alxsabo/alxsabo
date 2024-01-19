@@ -52,4 +52,4 @@ I'm Aleksandar, Software Craftsman, from Novi Sad, Serbia.
 
 - **GitHub**: You are here! Star some repos and make my day!
 - **LinkedIn**: [in/alxsabo](https://www.linkedin.com/in/alxsabo/)
-- **Website**: [aleksandarsabo.com](httsp://aleksandarsabo.com)
+- **Website**: [aleksandarsabo.com](https://aleksandarsabo.com)
